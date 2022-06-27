@@ -1,5 +1,8 @@
 #  ta-uas - DartGameCorner
 
+DartGameCorner merupakan aplikasi website penyedia layanan jual beli, top-up dan consigment produk virtual game online.
+Menyediakan berbagai macam metode pembayaran yang mendukung transaksi hingga region Asia Pasifik.
+
 Anggota :
 - A22.2020.02816 Rizqi Fajriati  3401
 - A22.2020.02854 Dwi Arya Ramadhani  3402
