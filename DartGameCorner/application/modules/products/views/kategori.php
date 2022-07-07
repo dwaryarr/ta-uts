@@ -33,7 +33,7 @@
                                             <td><?= $p['kategori']; ?></td>
                                             <td>
 
-                                                <?= anchor('keranjang/shopping/tambah/' . $p['id_produk'], '<div class="badge bg-success"><i class="fa-solid fa-cart-plus"></i> Add to Cart</div>') ?>
+                                                <?= anchor('keranjang/tambah/' . $p['id_produk'], '<div class="badge bg-success"><i class="fa-solid fa-cart-plus"></i> Add to Cart</div>') ?>
                                                 <a href="<?= base_url('products/edit/') . $p['id_produk']; ?>" class="badge bg-primary"><i class="fas fa-pen-to-square"></i> Edit</a>
                                                 <a href="<?= base_url('products/hapus/') . $p['id_produk']; ?>" class="badge bg-danger"><i class="fas fa-trash-can"></i> Delete</a>
                                             </td>
